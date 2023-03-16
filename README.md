@@ -4,7 +4,7 @@ The Pymaceuticals challenge revolved around the analysis of lab mice, which unde
 
 --------------------------------------------
 
-### **The following analysis was conducted based on the results:**
+### **The following analysis was made based on the results:**
 - When looking at the top four drug regimes, which include treatments with Capomulin, Ramicane, Infubinol, and Ceftamin; Capomulin and Ramicane regimes seem to result in lower final tumor volumes than treatments with Infubinol and Ceftamin.
 - However, as the bar charts show, more treatments were conducted with Capomulin and Ramicane than with any other drugs, which may produce more reliable results. This does not mean that these two drugs are better or worse than the others but should still be considered when drawing final conclusions. 
 - When looking back at the top four regimes, there was only one outlier amongst all of them, which is a promising aspect towards reliable results.
